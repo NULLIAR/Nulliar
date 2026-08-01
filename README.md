@@ -1,8 +1,8 @@
-<p align="center">$\textcolor{#B82F0B}{\textsf{it's great to finally meet}}$ $\textcolor{#F7E5B5}{\textsf{you}}$ $\textcolor{#B82F0B}{\textsf{.}}$</p>
-
 <p align="center"><a href="https://hits.sh/github.com/NULLIAR/hits/"><img alt="Hits" src="https://hits.sh/github.com/NULLIAR/hits.svg?label=liar&extraCount=2008&color=b90401&labelColor=f3ebcd"/></a>
   
 </p>
+
+<p align="center">$\textcolor{#B82F0B}{\textsf{it's great to finally meet}}$ $\textcolor{#F7E5B5}{\textsf{you}}$ $\textcolor{#B82F0B}{\textsf{.}}$</p>
   
 ![](https://files.catbox.moe/vuk05z.png)
 
