@@ -4,7 +4,7 @@
   
 ![](https://files.catbox.moe/vuk05z.png)
 
-![](https://files.catbox.moe/g3ldch.png)
+<p align="center">![](https://files.catbox.moe/g3ldch.png)
 
 <p align="center">$\textcolor{#B82F0B}{\textsf{int freely , }}$ $\textcolor{#F7E5B5}{\textsf{NULL}}$ $\textcolor{#B82F0B}{\textsf{'s no1 fan , isfp sp6w5}}$</p>
 
