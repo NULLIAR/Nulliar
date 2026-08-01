@@ -6,4 +6,4 @@
 
 <p align="center">hi.</p>
 
-$\small\textcolor{#461d09}{\textsf{wip}}$
+$\textcolor{#461d09}{\textsf{wip}}$
