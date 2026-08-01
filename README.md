@@ -2,7 +2,7 @@
   
 </p>
 
-![](https://i.postimg.cc/J04W7bpz/null.webp)
+<p align="center">![](https://i.postimg.cc/J04W7bpz/null.webp)</p>
 
 ![](https://files.catbox.moe/vuk05z.png)
 
