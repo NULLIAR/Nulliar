@@ -4,4 +4,4 @@
 
 ![](https://files.catbox.moe/vuk05z.png)
 
-<p align="center">$\textcolor{#E8190E}{\textsf{int freely , }}$</p>
+<p align="center">$\textcolor{#E8190E}{\textsf{int freely , }}$ $\textcolor{#F7E5B5}{\textsf{NULL's #1 fan}}$</p>
