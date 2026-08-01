@@ -1,10 +1,6 @@
 <p align="center"><a href="https://hits.sh/github.com/NULLIAR/hits/"><img alt="Hits" src="https://hits.sh/github.com/NULLIAR/hits.svg?label=liar&extraCount=2008&color=b90401&labelColor=f3ebcd"/></a>
   
 </p>
-
-<p align="center">
-
-  ![](https://files.catbox.moe/ni0r0m.webp)
   
 ![](https://files.catbox.moe/vuk05z.png)
 
