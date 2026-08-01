@@ -2,5 +2,4 @@
 
 ![](https://files.catbox.moe/vuk05z.png)
 
-<p align="center">
-wip!
+<p align="center">hi.</p>
