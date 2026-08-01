@@ -4,4 +4,4 @@
 
 ![](https://files.catbox.moe/vuk05z.png)
 
-<p align="center">$\textcolor{#461d09}{\textsf{int freely , }}$</p>
+<p align="center">$\textcolor{#E8190E}{\textsf{int freely , }}$</p>
