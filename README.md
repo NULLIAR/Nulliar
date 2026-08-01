@@ -10,6 +10,6 @@
 
 <p align="center">$\textcolor{#9C0C05}{\textsf{asocial , mentally unstable , basic dni criteria.}}$</p>
 
-<p align="center">$\textcolor{#B82F0B}{\textsf{they / them}}$  $\textcolor{#F7E5B5}{\textsf{ou}}$ $\textcolor{#9C0C05}{\textsf{he / him , }}$ $\textcolor{#B82F0B}{\textsf{minor , do not be afraid to int.}}$</p>
+<p align="center">$\textcolor{#B82F0B}{\textsf{they / them}}$  $\textcolor{#F7E5B5}{\textsf{or}}$ $\textcolor{#9C0C05}{\textsf{he / him , }}$ $\textcolor{#B82F0B}{\textsf{minor , do not be afraid to int.}}$</p>
 
 <p align="center">$\textcolor{#F7E5B5}{\textsf{◞◟　𓎟𓎟　 ✦　　𓎟𓎟　　◞◟}}$</p>
